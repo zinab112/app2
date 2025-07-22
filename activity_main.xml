@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!-- أول قسم فيه اسم ولينك -->
+    
 
 
     <TextView
@@ -35,7 +35,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
 
-    <!-- ثاني قسم فيه الصور -->
+    
 
 
     <ImageView
